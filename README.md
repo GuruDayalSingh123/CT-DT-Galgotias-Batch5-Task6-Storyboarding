@@ -75,3 +75,7 @@ The student performs better in exams, achieves higher grades, and recommends the
 
 The storyboard illustrates how the AI Study Assistant App transforms a student's learning journey—from confusion and stress to organized study habits, improved academic performance, and increased confidence through intelligent and personalized assistance.
 
+
+
+
+https://lucid.app/lucidchart/aa361a3a-1357-4178-9be7-6296bac9509b/edit?viewport_loc=-1456%2C54%2C4640%2C2103%2C0_0&invitationId=inv_ce1aa558-a9b3-4ebd-b6a0-ddcc76fcafff
